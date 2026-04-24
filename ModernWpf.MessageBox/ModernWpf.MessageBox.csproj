@@ -17,7 +17,8 @@
   <PropertyGroup>
     <RootNamespace>ModernWpf</RootNamespace>
     <OutputType>Library</OutputType>
-    <TargetFrameworks>net45;net462;netcoreapp3.0;net5.0-windows10.0.18362</TargetFrameworks>
+    <TargetFrameworks>net10.0-windows10.0.26100.0</TargetFrameworks>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
     <LangVersion>8.0</LangVersion>
     <NeutralLanguage>en-US</NeutralLanguage>
     <UseWPF>True</UseWPF>
